@@ -5,7 +5,7 @@
 * Setup Environment
 
 ```bash
-$ git clone https://github.com/its-Kumar/signlang_project.git
+$ git clone https://github.com/introvert-rahul/SignLanguageDetection.git
 $ cd signlang_project
 $ pip install virtualenv
 $ virtualenv venv
